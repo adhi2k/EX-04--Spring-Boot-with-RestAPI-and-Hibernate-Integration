@@ -1,7 +1,7 @@
 # Ex No: 04 – Spring Boot with REST API and Hibernate Integration
 
-**Name:** V. S. Sree Viveka
-**Reg No:** 2305001031
+### Name: Adhithya K
+### Reg No: 2305002001
 
 ## AIM
 
